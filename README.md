@@ -1,5 +1,5 @@
 # Personal Portfolio
-https://ameyagidh.netlify.app/
+Ameya Santosh Gidh
 
 <img width="1496" alt="website" src="https://github.com/ameyagidh/AmeyaSGidhPortfolio/assets/65457905/895f16b0-2765-44e2-92eb-499a38b44fc7">
 
