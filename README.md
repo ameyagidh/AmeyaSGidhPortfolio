@@ -1,7 +1,7 @@
 # Personal Portfolio
 https://ameyagidh.netlify.app/
 
-/Users/ameyagidh/Downloads/dummy/AmeyaSantoshGidhPortfolio/assets/website.png
+![alt text](https://github.com/ameyagidh/AmeyaSGidhPortfolio/assets/website.png?raw=true)
 
 # Ameya Gidh - Portfolio React App
 
