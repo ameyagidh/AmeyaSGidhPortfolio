@@ -1,7 +1,7 @@
 # Personal Portfolio
 https://ameyagidh.netlify.app/
 
-![alt text](https://github.com/ameyagidh/AmeyaSGidhPortfolio/assets/website.png?raw=true)
+<img width="1496" alt="website" src="https://github.com/ameyagidh/AmeyaSGidhPortfolio/assets/65457905/895f16b0-2765-44e2-92eb-499a38b44fc7">
 
 # Ameya Gidh - Portfolio React App
 
